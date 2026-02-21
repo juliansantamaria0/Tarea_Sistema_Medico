@@ -14,7 +14,7 @@ Este proyecto demuestra dominio en:
 * Normalización progresiva (1FN–4FN)
 * Implementación física en MySQL
 * Programación SQL (Stored Procedures y Functions)
-* Control de integridad y manejo de errores
+* Control de integridad y manejo de errores.
 
 ---
 
