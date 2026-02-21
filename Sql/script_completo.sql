@@ -16,9 +16,9 @@ DROP TABLE IF EXISTS log_errores;
 
 SET FOREIGN_KEY_CHECKS = 1;
 
--- =========================
+-- ========================
 -- 1) TABLAS
--- =========================
+-- ========================
 CREATE TABLE paciente (
     paciente_id VARCHAR(10) PRIMARY KEY,
     nombre_paciente VARCHAR(50) NOT NULL,

@@ -1,3 +1,7 @@
+-- ========================
+-- MODELO FISICO
+-- ========================
+
 CREATE DATABASE IF NOT EXISTS sistema_medico;
 USE sistema_medico;
 

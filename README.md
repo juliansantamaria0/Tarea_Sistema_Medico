@@ -100,8 +100,13 @@ Relaciones adicionales:
 * `Docs/El diagrama UML ER.png`
 * `Docs/Modelo_Entidad_Relacion.png`
             o   
-**[diagrama UML ER](https://ibb.co/7JZ6y8JX)**
-**[diagrama Entidad Relacion](https://ibb.co/ZRcmt4QW)**
+## 🧠 Modelo Entidad–Relación
+
+### Diagrama UML ER
+![Diagrama UML ER](https://i.ibb.co/fYyP0BY2/El-diagrama-UML-ER.png)
+
+### Diagrama Entidad–Relación
+![Diagrama Entidad Relación](https://i.ibb.co/xKzHP9nJ/Modelo-Entidad-Relacion.png)
 ---
 
 ## 🗂 Modelo Físico
